@@ -1,7 +1,0 @@
-#Environment
-
-conda activate Machine_Learning
-
-#Web App Launch
-
-streamlit run "C:\Multiple Disease Detection\mdps.py"
